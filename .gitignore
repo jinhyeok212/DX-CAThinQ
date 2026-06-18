@@ -1,1 +1,16 @@
-.
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# YOLO
+runs/
+datasets/
+*.pt
+*.onnx
+*.avi
+*.mp4
+*.mov
+
+# Env
+.env
